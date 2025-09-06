@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jeddh Andrew Jayme
 
 🎓 **3rd Year Computer Science Student**  
-📊 **Aspiring Data Analyst** | 💻 **Full-Stack SQL Developer**  
+📊 **Aspiring Data Analyst**  
 📈 Skilled in **Power BI** for Data Visualization  
 🤖 Exploring **AI Automation** with **n8n**  
 🚀 Passionate about turning data into insights and building smart, efficient solutions
